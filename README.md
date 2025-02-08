@@ -103,7 +103,7 @@ Este proyecto no requiere dependencias externas. Solo utiliza:
 
 ## Licencia 📄
 
-Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está bajo la licencia **MIT**.
 
 ---
 
@@ -111,9 +111,8 @@ Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el ar
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-- **Nombre**: [Tu nombre]
-- **Email**: [tu.email@ejemplo.com]
-- **LinkedIn**: [Tu perfil de LinkedIn]
+- **Nombre**: Francisco Rodríguez
+- **LinkedIn**: https://www.linkedin.com/in/fcofing/
 
 ---
 
